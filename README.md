@@ -7,9 +7,17 @@ O indivíduo é uma sequência de movimentos (cromossomo) que é simulada no lab
 
 > 📺 **Assista à explicação do projeto:**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aXQ17p9docE?si=JkYpR5rsbyOzDYrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=aXQ17p9docE">
+    <img src="https://img.youtube.com/vi/aXQ17p9docE/maxresdefault.jpg" alt="Demonstração em Vídeo" width="560" />
+  </a>
+</p>
 
-[![Assistir no YouTube](https://img.shields.io/badge/YouTube-Assistir%20ao%20v%C3%ADdeo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=aXQ17p9docE)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=aXQ17p9docE">
+    <img src="https://img.shields.io/badge/YouTube-Assistir%20ao%20v%C3%ADdeo-red?style=for-the-badge&logo=youtube" alt="Assistir no YouTube" />
+  </a>
+</p>
 
 ---
 
